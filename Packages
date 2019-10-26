@@ -14,4 +14,66 @@ Author: Shiar Ahmed
 Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
 Name: Snapchat
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/test.json
+
+Package: com.yourepo.abbeedo70.icone
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: abbeedo70 <abbeedo@gmail.com>
+Depends: com.matchstic.reprovision,com.ichitaso.powerselector11,com.exile90.icleanerpro,ws.hbang.newterm2,me.midnightchips.snapback,com.yourepo.abbeedo70.newterm2ios1012,com.yourepo.abbeedo70.filzafilemanager
+Filename: ./debs/com.yourepo.abbeedo70.icone_1.2_iphoneos-arm.deb
+Size: 45190
+MD5sum: 5a26ffa176319921745710bf9f578f6b
+SHA1: d12642d1797871f9d34b512613b1aecb83a4b3d4
+SHA256: dac16f7e4d61671b598cae5eabff2f658d3ea54eb377e3d84d848c398f5888dc
+Section: System
+Description: Officials Abbeedo70 Repo Icons
+Depiction: http://abbeedo.com/repo/depictions/?p=test
+SileoDepiction: http://abbeedo.com/repo/sileodepictions/icon.json
+Author: Abbeedo70 <abbeedo@gmail.com>
+Name: Abbeedo70 Repo Icons
+
+Package: com.yourepo.abbeedo70.onlinenotifybyabbeedo
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: Abbeedo <abbeedo@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools
+Filename: ./debs/com.yourepo.abbeedo70.onlinenotifybyabbeedo_3.0.4_iphoneos-arm.deb
+Size: 701882
+MD5sum: 5c049099f1bca6cfafaf0fdb5389c01e
+SHA1: cee1f9d02370be12b004f977ed62b90b92ad26be
+SHA256: fbe1ac3a2e8a10c9138f765701c7c3057b7194e0d80c1bc8b9dfd32480ab7281
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger! تم تكريك الاداة بنجاح وشغاله بدون مشاكل
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Name: OnlineNotify By Abbeedo
+
+Package: com.yourepo.abbeedo70.vipforytm
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: abbeedo70 <abbeedo@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.yourepo.abbeedo70.vipforytm_0.1_iphoneos-arm.deb
+Size: 34960
+MD5sum: 862ff87ca9eb1398ef68526207767cf6
+SHA1: 3f0ce1cdf12c965ae5c9ac0e40fee5a5b21beab0
+SHA256: 03d6d1dbb458f57126a616fa8f34d6e00513967d16056c20444f2a6eb3c932f5
+Section: System
+Description: this tweak Removes Ads In YouTube Music & Play Songs In the background!
+Author: Mohamed Tanbakji <abbeedo@gmail.com>
+Name: VipForYTM
+
+Package: com.yourepo.abbeedo70.vipforyt
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: abbeedo70 <abbeedo@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.yourepo.abbeedo70.vipforyt_0.3_iphoneos-arm.deb
+Size: 8992
+MD5sum: 1c0677fc0da6d35f71cfdc86a653be1a
+SHA1: 2ff6e38f83facfa7d3c36d989d39632fb09a620d
+SHA256: 5be07367b37e7cd706e5e45b5f6c4ce9fb6178e3d7f2ecc7ad29c49878f2cd4a
+Section: Social
+Description: تشغيل اليوتيوب في الخلفية وحذف الاعلانات من اليوتيوب
+Author: Mohamed Tanbakji <abbeedo@gmail.com>
+Name: VipForYT

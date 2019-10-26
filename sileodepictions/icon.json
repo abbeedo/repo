@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Snapchat Tweak for Testing"
+					"markdown": "icon"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -40,27 +40,27 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 10.0 - 12.4",
+					"text": "iOS 5.0 - 12.4",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "Shiar",
+					"text": "abbeedo",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Maintainer",
-					"text": "Shiar",
+					"text": "abbeedo",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Contact Developer",
-					"action": "mailto:abc@gmail.com",
+					"action": "mailto:abbeedo2020@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Contact Maintainer",
-					"action": "mailto:abc@gmail.com",
+					"action": "mailto:abbeedo2020@gmail.com",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -78,7 +78,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.0",
+					"title": "1.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
