@@ -1,0 +1,25 @@
+<package>
+	<id>com.abbeedo7.watusi2</id>
+	<name>watools</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>ما بقى لنا شي على الفين مشترك في قناتنا تقدرون توصلونا بأقرب وقت</package>
+	</dependencies>
+	<shortDescription>icon repo</shortDescription>
+	<descriptionlist>
+		<description>tool watusi2</description>
+		<description>Supports iOS 5.0 - 12.4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>شكرا لكم ارجو دعمنا لتحفيزنا على المزيد</change>
+	</changelog>
+	<links></links>
+</package>

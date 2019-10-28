@@ -1,0 +1,101 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "YouTube playback in the background + delete YouTube ads and this works only in YouTube"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Last Updated",
+					"text": "October 27, 2019",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "License",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 5.0 - 12.4",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "abbeedo",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "abbeedo",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Contact Developer",
+					"action": "mailto:abbeedo2020@gmail.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Contact Maintainer",
+					"action": "mailto:abbeedo2020@gmail.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 Added new features",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

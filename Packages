@@ -1,20 +1,41 @@
-Package: com.shiarahmed.snapchat
-Version: 1.0
+Package: com.pulandres.watools
+Version: 2.1.5
 Architecture: iphoneos-arm
-Maintainer: Shiar Ahmed
-Depends: mobilesubstrate
-Filename: ./debs/com.shiarahmed.snapchat_1.0_iphoneos-arm.deb
-Size: 6492
-MD5sum: d27915bc453a46d5797d64c1b532c54d
-SHA1: a9b44f076c259c050b48e5c6fc6dc01b623956d3
-SHA256: 1d36acc67cad7aff0dc43d3743baad0091062d5a7c91f9b4a94554941cd02f6f
+Maintainer: Pulandres
+Depends: firmware (>= 8.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.f0u4d.watusitools, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack, updatejeje
+Replaces: com.f0u4d.watusitools
+Filename: ./debs/com.abbeedo7.watools.deb
+Size: 26755942
+MD5sum: f8b8bb5d3a440a3f78b9f60050f23c06
+SHA1: 8e016f04445fd63dab7a610717f15fc9567dbf45
+SHA256: 2cbf89c6882c72d4df064a17beb6b84ad3b0b18bdd8c2e811bcd2ffc14732bf4
+Section: System
+Description: Library for Watusi and WhatsApp tweaks
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=534
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: WatusiTools Cracked
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=534
+
+Package: com.pulandres.watusi2
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, applist, com.pulandres.watools
+Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, ass.kiiimo.repo2, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.abbeedo7.watusi2.deb
+Size: 5051464
+MD5sum: 9e4406729a5c37b31a6f374a9c94637e
+SHA1: 586327f20341ad28127fc4c30e37fd01aa651cea
+SHA256: 7ded3cc49464376763d270221580550d7b3ce87cdd1d3de1fdf996aee42b548d
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Shiar Ahmed
-Depiction: https://shiarahmed.github.io/test/depictions/?p=test
-Installed-Size: 84
-Name: Snapchat
-SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/test.json
+Description: The all-in-one tweak for WhatsApp Messenger
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=714
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Name: Watusi 2 Cracked
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=714
 
 Package: com.yourepo.abbeedo70.icone
 Version: 1.2
@@ -28,8 +49,6 @@ SHA1: d12642d1797871f9d34b512613b1aecb83a4b3d4
 SHA256: dac16f7e4d61671b598cae5eabff2f658d3ea54eb377e3d84d848c398f5888dc
 Section: System
 Description: Officials Abbeedo70 Repo Icons
-Depiction: http://abbeedo7.com/repo/depictions/?p=test
-SileoDepiction: http://abbeedo7.com/repo/sileodepictions/icon.json
 Author: Abbeedo70 <abbeedo@gmail.com>
 Name: Abbeedo70 Repo Icons
 
@@ -77,3 +96,4 @@ Section: Social
 Description: تشغيل اليوتيوب في الخلفية وحذف الاعلانات من اليوتيوب
 Author: Mohamed Tanbakji <abbeedo@gmail.com>
 Name: VipForYT
+
